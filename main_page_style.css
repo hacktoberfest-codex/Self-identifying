@@ -12,8 +12,6 @@
 .info_tab{
     margin :1%;
     width:100%;
-    margin-left: 3%;
-    margin-right: 3%;
 }
 
 .text_bold{
@@ -49,15 +47,18 @@
 }
 
 .card_tab{
+    
 padding: 1%;
 }
 
 .card_column{
-
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .department_card{
-
+width: 31%;
 }
 
 .card_img{

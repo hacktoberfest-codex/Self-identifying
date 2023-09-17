@@ -1,0 +1,9 @@
+.foot{
+    background-color: black;
+    color: white;
+
+}
+.elementor-widget-container img{
+    width:100%;
+    height:40%;
+}
