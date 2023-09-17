@@ -1,0 +1,73 @@
+.fact_tab{
+    width:100%;
+    padding:10px
+}
+
+.text_fact_tab{
+    font-size: 30px;
+    color: rgba(0, 0, 255, 0.688);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info_tab{
+    margin :1%;
+    width:100%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.text_bold{
+    font-size: 30px;
+}
+
+.text_normal_1{
+    font-size: 18px;
+}
+
+.text_normal_2{
+    font-size: 20px;
+    color: gray;
+}
+
+.link_page{
+
+}
+
+.link_font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.youtube_video_tab{
+
+}
+
+.video_thumbnail{
+    width: 75%;
+    height: 50%;
+    frameborder: 0;
+    allow : accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+}
+
+.card_tab{
+padding: 1%;
+}
+
+.card_column{
+
+}
+
+.department_card{
+
+}
+
+.card_img{
+    width: 100%;
+}
+
+.card_ul{
+    list-style: none;
+}
+
+.card_li:before{
+    content: '✓';
+}
