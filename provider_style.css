@@ -1,0 +1,28 @@
+.person_pic{
+    border-radius: 50px;
+    height: 170mp;
+    width: 170px;
+    box-shadow: 5px black;
+}
+
+.column_tab{
+    padding-bottom: 2%;
+}
+
+.heading_tab_1{
+    background-image: url('https://images.livemint.com/img/2019/08/22/600x338/Ayushmanbharat-kvCD--621x414@LiveMint_1566457983805.jpg');
+    
+    
+}
+.heading_tab_2{
+    
+    background-color: rgb(118, 253, 208,0.2);
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+.icon_pic{
+    height: 250px;
+    width: 250px;
+}
